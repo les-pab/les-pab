@@ -1,4 +1,18 @@
-### Hi there 👋
+# Hi there 👋
+
+### I'm Lester born and raised in the City of Baguio and a graduate from one of our local universities, the University of the Cordilleras.
+
+## Basic Skills and Knowledge at:
+### Web Development using:
+- HTML
+- CSS (with SASS/SCSS)
+- Javascript
+- React.js
+- MaterialUI
+- Laravel
+### Mobile Development using:
+- Java
+- Kotlin
 
 <!--
 **les-pab/les-pab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
