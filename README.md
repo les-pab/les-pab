@@ -1,6 +1,7 @@
 # Hi there 👋
 
-### I'm Lester born and raised in the City of Baguio and a graduate from one of our local universities, the University of the Cordilleras.
+### I'm Lester born and raised in the City of Baguio.
+### I’m currently in the process becoming a Full Stack Developer.
 
 ## Basic Skills and Knowledge at:
 ### Web Development using:
