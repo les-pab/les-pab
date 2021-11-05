@@ -9,6 +9,7 @@
 - CSS (with SASS/SCSS)
 - Javascript
 - React.js
+- Next.js
 - MaterialUI
 - Laravel
 ### Mobile Development using:
