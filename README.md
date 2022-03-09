@@ -7,10 +7,11 @@
 ### Web Development using:
 - HTML
 - CSS (with SASS/SCSS)
-- Javascript
+- MaterialUI
+- JavaScript/TypeScript
+- Bootstrap
 - React.js
 - Next.js
-- MaterialUI
 - Laravel
 ### Mobile Development using:
 - Java
