@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Lester born and raised in the City of Baguio, currently in the process becoming a Full Stack Developer.
+### I'm Lester born and raised in the City of Baguio, currently in the process of becoming a Full Stack Developer.
 
 ## Current skills:
 ### Web:
