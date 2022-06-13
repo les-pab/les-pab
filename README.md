@@ -1,21 +1,28 @@
 # Hi there 👋
 
-### I'm Lester born and raised in the City of Baguio.
-### I’m currently in the process becoming a Full Stack Developer.
+### I'm Lester born and raised in the City of Baguio, currently in the process becoming a Full Stack Developer.
 
-## Basic Skills and Knowledge at:
-### Web Development using:
+## Current skills:
+### Web:
 - HTML
 - CSS (with SASS/SCSS)
+- Bootstrap
 - MaterialUI
+- StyledComponents
 - JavaScript/TypeScript
 - Bootstrap
 - React.js
 - Next.js
 - Laravel
-### Mobile Development using:
+
+### Mobile:
 - Java
 - Kotlin
+- Flutter (a bit)
+
+### Database:
+- MySQL
+- MongoDB
 
 <!--
 **les-pab/les-pab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
