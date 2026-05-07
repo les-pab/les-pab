@@ -2,7 +2,7 @@
 
 **`Software Engineer · el_pablo`**
 
-Based in Baguio City, Philippines. Currently at **Cambridge University Press & Assessment**, shipping TypeScript microservices and AWS-native pipelines. I build things for the web, mobile, and wherever else they need building.
+Based in Baguio City, Philippines. Currently at **Cambridge University Press & Assessment**, shipping TypeScript microservices and AWS-native pipelines. I build things for the web, mobile, and whatever needs building (hehe).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lester-treole-p-5830853b6/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-bagiwboy.com-0f0e0c?style=flat)](https://bagiwboy.com)
