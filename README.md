@@ -48,7 +48,6 @@ Based in Baguio City, Philippines. Currently at **Cambridge University Press & A
 <img align="left" alt="AWS" width="52px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" alt="Docker" width="52px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Jest" width="52px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
-<img align="left" alt="JIRA" width="52px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
 <img align="left" alt="VSCode" width="52px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
 <br clear="left"/>
