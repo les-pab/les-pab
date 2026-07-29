@@ -1,5 +1,3 @@
-# Lester Treole Pablo
-
 **`Software Engineer · el_pablo`**
 
 Based in Baguio City, Philippines. Software Engineer at **Cambridge University Press & Assessment**, Manila. Four years rebuilding **Mantle** — the platform academic libraries worldwide use to buy and access Cambridge's digital books and journals — across the whole stack: the order engine, SAP finance integrations, AWS infrastructure, and the team's AI-assisted engineering practice. I build things for the web, mobile, and whatever needs building (hehe).
